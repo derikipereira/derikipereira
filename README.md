@@ -19,7 +19,7 @@ Sou um desenvolvedor full stack com experiência em várias tecnologias e uma pa
 
 ## Projetos Destacados
 
-- [Microservices Demo](https://github.com/derikipereira/Microservices-Demo)
+- [Microservices Demo](https://github.com/derikipereira/Microservices-Demo) : Uma demonstração arquitetura de microservices baseada em Spring Boot, MySQL e várias tecnologias de nuvem.
 
 ## Entre em Contato
 
