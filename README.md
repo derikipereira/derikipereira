@@ -19,7 +19,7 @@ Sou um desenvolvedor full stack com experiência em várias tecnologias e uma pa
 
 ## Projetos Destacados
 
-- [Sistema de Gerenciamento de Vendas](https://github.com/derikipereira/Sistema-de-Gerenciamento-de-Vendas): Este é um sistema de gerenciamento de vendas construído usando uma arquitetura de microservices. Ele permite que empresas registrem, gerenciem e analisem suas operações de vendas, clientes e produtos. O projeto foi desenvolvido em Java 21.
+
 
 ## Entre em Contato
 
