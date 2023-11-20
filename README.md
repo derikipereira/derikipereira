@@ -14,7 +14,7 @@ Sou um desenvolvedor full stack com experiência em várias tecnologias e uma pa
 ## Habilidades
 
 - Front-end: React, Next.js, HTML, CSS, JavaScript
-- Back-end: Java, Spring Boot
+- Back-end: Java, Node
 - Bancos de Dados: MySQL, MongoDB, FireBase, postgresql
 
 ## Projetos Destacados
