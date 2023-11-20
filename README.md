@@ -7,8 +7,7 @@ Desenvolvedor Full Stack | Apaixonado por Tecnologia
 Sou um desenvolvedor full stack com experiência em várias tecnologias e uma paixão por criar soluções tecnológicas. Minha jornada na programação começou com um interesse profundo em construir coisas e evoluiu para uma carreira emocionante na área de desenvolvimento de software.
 
 - 🌟 Experiência em desenvolvimento web com foco em tecnologias como React, Next.js, HTML, CSS e JavaScript.
-- 💾 Conhecimento em bancos de dados, incluindo MySQL e MongoDB.
-- ☕ Entusiasta do desenvolvimento back-end com Java e Spring Boot.
+- ☕ Entusiasta do desenvolvimento back-end.
 - 🌐 Habilidades de desenvolvimento full stack que me permitem criar aplicativos e sites completos de ponta a ponta.
 
 ## Habilidades
