@@ -25,9 +25,3 @@ Sou um desenvolvedor full stack com experiência em várias tecnologias e uma pa
 
 - LinkedIn: https://www.linkedin.com/in/derikipereira/
 - Email: derikipereira@gmail.com
-
-## Portfolio (TO DO)
-
-Você pode conferir mais detalhes sobre meus projetos e contribuições em meu [portfolio online](link_do_seu_portfolio).
-
-Sinta-se à vontade para entrar em contato comigo se você deseja colaborar, aprender mais sobre meus projetos ou apenas bater um papo sobre tecnologia. Estou sempre em busca de oportunidades emocionantes para aprender e crescer como desenvolvedor.
